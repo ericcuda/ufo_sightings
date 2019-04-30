@@ -1,2 +1,5 @@
-# ufo_sightings
-js project with css and DOM manipulation
+## ufo_sightings
+
+# Description:  js project with css and DOM manipulation
+
+
