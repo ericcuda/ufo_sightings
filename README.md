@@ -4,7 +4,9 @@
 
 <br>
 
-## Eric Staveley MWSa  Data Analytics and Visualization Boot Camp (Apr 2019)
+## Eric Staveley  
+MWSa  
+Data Analytics and Visualization Boot Camp (Apr 2019)
 
 
 ### Project Web Page url (accessible to public to view content as web page):
